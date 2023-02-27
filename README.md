@@ -10,3 +10,4 @@ chenge5-commit5-rolling
 add commit after adding gpg
 
 add commit 1
+verified
